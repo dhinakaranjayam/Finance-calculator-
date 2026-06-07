@@ -1,0 +1,6 @@
+{
+  "name": "Financial Calculator Suite",
+  "description": "A comprehensive personal finance toolkit featuring an EMI loan calculator, FD returns calculator, SIP investment planner, and a personal tax estimator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
